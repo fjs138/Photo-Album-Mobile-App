@@ -1,3 +1,3 @@
-#A cross-platform, cloud-storage enabled, Photo Album Mobile App
-
-This repository contains a basic photo album mobile application created using the Telerik AppBuilder platform. Specifically, it is the result of completing the AppBuilder quick-start tutorial.
+#This is a cross-platform, cloud-storage enabled, photo album mobile application.
+It leverages the robust Cordova API collection, providing abstraction of phone functions.
+Using a JavaScript codebase, this application can be deployed on both iOS and Android with the same codebase. The development platform used to create this was the awesome Telerik AppBuilder.
