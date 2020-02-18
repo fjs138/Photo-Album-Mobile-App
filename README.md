@@ -8,7 +8,7 @@ I would definitely consider the use of this platform again to create a multiplat
 <br>
 MIT License
 
-Copyright (c) 2020 Frank Santaguida
+Copyright (c) 2015 Frank Santaguida
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
