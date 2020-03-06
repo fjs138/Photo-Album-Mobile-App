@@ -7,8 +7,9 @@ Using a <i>single <b>JavaScript</b> codebase</i>, this application can be deploy
 The development platform used to create this was the awesome Telerik AppBuilder.
 I would definitely consider the use of this platform again to create a multiplatform mobile application, depending on my requirements.
 
-<br>
+
 ## License
+
 MIT License
 
 Copyright (c) 2015 Frank Santaguida
